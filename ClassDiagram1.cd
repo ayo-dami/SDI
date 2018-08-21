@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Search">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAABAACAAAAAAAAIAAAAAAAAAAAAAAIAgAAA=</HashCode>
+      <FileName>CoreSource\header\advanced_search.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BinarySearch">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAIAAAAQAAAEAEAAIAAIAAAAAAAgAAAIAAAAg=</HashCode>
+      <FileName>CoreSource\header\binary_search.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Node">
+    <Position X="11" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAQAAAAgAAAARBAAAAAACAACAAIAAAAAAIQAAkEgAA=</HashCode>
+      <FileName>CoreSource\header\binary_search_tree.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BinaryTree">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAgAAAAgEAAAAABAQAAAEAgAAAAAAQA=</HashCode>
+      <FileName>CoreSource\header\binary_search_tree.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DailyLogStructure">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAQABAAAAAIAAQABAAAEAAAAAAAAEAAABAAAQAA=</HashCode>
+      <FileName>CoreSource\header\DailyLogStructure.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataStore">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAgAQAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CoreSource\header\DataStore.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogEntry">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAEAAAAgAAAAEACIAAAA=</HashCode>
+      <FileName>CoreSource\header\LogEntry.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Material">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAgEIAAACEAAAYABACQAAQAEAAAQAAA=</HashCode>
+      <FileName>CoreSource\header\Project.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project">
+    <Position X="9.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QACAAAEAQAAIJAgACAAACAACAAAAAAAEAAEEAAAAgAA=</HashCode>
+      <FileName>CoreSource\header\Project.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Crew">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CoreSource\header\Project.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="SearchType" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CoreSource\header\advanced_search.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="SearchField" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CoreSource\header\binary_search.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="__unnamed_enum_000c_1">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAEAAAAEABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CoreSource\header\binary_search.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
